@@ -1,5 +1,5 @@
 <?php
- // created: 2015-11-20 10:44:04
+ // created: 2016-07-16 00:20:19
 $dictionary['Case']['fields']['jjwg_maps_address_c']['inline_edit']=1;
 
  ?>
