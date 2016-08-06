@@ -1,0 +1,3 @@
+[submodule "packages/semlot_accounts"]
+	path = packages/semlot_accounts
+	url = https://github.com/nlv/semlot_accounts.git
