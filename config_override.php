@@ -3,8 +3,8 @@
 $sugar_config['default_date_format'] = 'd.m.Y';
 $sugar_config['disable_persistent_connections'] = false;
 $sugar_config['default_time_format'] = 'H:i';
-$sugar_config['js_custom_version'] = 12;
-$sugar_config['js_lang_version'] = 12;
+$sugar_config['js_custom_version'] = 13;
+$sugar_config['js_lang_version'] = 13;
 $sugar_config['default_theme'] = 'SuiteR';
 $sugar_config['disabled_themes'] = '';
 $sugar_config['theme_settings']['Suite7']['menu'] = '121212';
