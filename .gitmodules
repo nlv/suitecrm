@@ -1,3 +1,6 @@
 [submodule "packages/semlot_accounts"]
 	path = packages/semlot_accounts
 	url = https://github.com/nlv/semlot_accounts.git
+[submodule "packages/semlot_data"]
+	path = packages/semlot_data
+	url = https://github.com/nlv/semlot_data.git
