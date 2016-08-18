@@ -15,5 +15,14 @@ $app_list_strings['contact_activity_dom'] = [
     'New'     => 'Новичок',
     'Left'    => 'Выбыл',
     ];
+
+$app_list_strings['sectors_dom'] = [
+  '' => '',
+  'Ecumenism' => 'Экуменизм',
+  'Juvenile' => 'Ювенальная юстиция',
+  'Control' => 'Тотальный контроль',
+  'Global' => 'Глобализация',
+  'Organization' => 'Деятельность организации'
+  ];
   
 ?>
