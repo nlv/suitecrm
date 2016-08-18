@@ -4,3 +4,6 @@
 [submodule "packages/semlot_data"]
 	path = packages/semlot_data
 	url = https://github.com/nlv/semlot_data.git
+[submodule "packages/semlot_forms"]
+	path = packages/semlot_forms
+	url = https://github.com/nlv/semlot_forms.git
