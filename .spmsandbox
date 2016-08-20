@@ -23,7 +23,7 @@
 [semlot_sectors]
     path = packages/semlot_sectors
     id = semlot_sectors
-    version = 1.0.0
+    version = 1.1.0
 
 [semlot_data]
     path = packages/semlot_data
@@ -33,4 +33,4 @@
 [semlot_forms]
     path = packages/semlot_forms
     id = semlot_forms
-    version = 1.1.0
+    version = 1.2.0
