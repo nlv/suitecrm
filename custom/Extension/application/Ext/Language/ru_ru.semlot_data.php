@@ -22,7 +22,8 @@ $app_list_strings['sectors_dom'] = [
   'Juvenile' => 'Ювенальная юстиция',
   'Control' => 'Тотальный контроль',
   'Global' => 'Глобализация',
-  'Organization' => 'Деятельность организации'
+  'Organization' => 'Деятельность организации',
+  'GreaterProject' => 'Великий проект',
   ];
   
 ?>
